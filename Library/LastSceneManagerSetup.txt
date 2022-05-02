@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/LowCharacterPack/LowCharacter_demo/prefabs/sample_scene/Demo_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
